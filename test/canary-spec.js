@@ -11,6 +11,6 @@ describe('Canary test', () => {
   it('Five should be five', () => {
     const five = 5;
 
-    five.should.be.equal(five);
+    five.should.be.equal(5);
   });
 });
